@@ -1,0 +1,11 @@
+Student_ID,Name,Age,Gender,Math,Science,English,Attendance_Percent,Result
+101,Aman,20,Male,78,82,75,90,Pass
+102,Priya,21,Female,92,89,94,96,Pass
+103,Rahul,19,Male,65,70,68,78,Pass
+104,Neha,20,Female,88,91,86,94,Pass
+105,Karan,22,Male,55,58,62,65,Fail
+106,Simran,21,Female,81,85,79,88,Pass
+107,Rohit,20,Male,73,76,71,82,Pass
+108,Anjali,19,Female,95,93,90,98,Pass
+109,Vikas,22,Male,60,64,66,70,Fail
+110,Pooja,20,Female,84,87,88,91,Pass
