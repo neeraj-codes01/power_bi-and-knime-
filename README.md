@@ -1,5 +1,4 @@
-Replace your existing README.md with the following professional GitHub README. I've included both Lab Assessment 1 and Lab Assessment 2, covering your Power BI, DAX, Power Query, and KNIME work.
-:::writing{variant="document" id="62841"}
+
 # 📊 POWER BI AND KNIME PROJECTS
 
 Welcome to my **Power BI and KNIME Projects Repository**!
